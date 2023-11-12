@@ -1,0 +1,80 @@
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\appsettings.Development.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\appsettings.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.staticwebassets.runtime.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.exe
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.deps.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.runtimeconfig.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.dll
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\ref\Sante.dll
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.pdb
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.csproj.AssemblyReference.cache
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.AssemblyInfoInputs.cache
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.AssemblyInfo.cs
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.csproj.CoreCompileInputs.cache
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.MvcApplicationPartsAssemblyInfo.cache
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.RazorAssemblyInfo.cache
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.RazorAssemblyInfo.cs
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\bundle\Sante.styles.css
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\projectbundle\Sante.bundle.scp.css
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.dll
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\ref\Sante.dll
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.pdb
+D:\ITU\L3\Mr Tahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.genruntimeconfig.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\appsettings.Development.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\appsettings.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.staticwebassets.runtime.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.exe
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.deps.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.runtimeconfig.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\ref\Sante.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Sante.pdb
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Npgsql.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.csproj.AssemblyReference.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.AssemblyInfoInputs.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.AssemblyInfo.cs
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.csproj.CoreCompileInputs.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.MvcApplicationPartsAssemblyInfo.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.RazorAssemblyInfo.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.RazorAssemblyInfo.cs
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\bundle\Sante.styles.css
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\scopedcss\projectbundle\Sante.bundle.scp.css
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.csproj.CopyComplete
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\ref\Sante.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.pdb
+D:\ITU\L3\MrTahina\C#\Sante\Sante\obj\Debug\net6.0\Sante.genruntimeconfig.cache
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\EntityFramework.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Data.SQLite.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.CodeDom.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITU\L3\MrTahina\C#\Sante\Sante\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
